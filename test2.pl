@@ -15,7 +15,7 @@ parent(graciela, nano).
 parent(carlos, capo).
 
 /* Clauses about gender */
-
+/* Some change */
 male(juan).
 male(angelo).
 male(carlos).
